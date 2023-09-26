@@ -1,5 +1,8 @@
 ### Hi there 👋
-hi, I'm amirhossein aminnegareshi
+hi, I'm amirhossein aminnegareshi.I'm front-end developer and I'm currently working on behinesazan-sarzamin-hooshmand.
+
+
+
 <!--
 **amirhoprogrammer/amirhoprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
