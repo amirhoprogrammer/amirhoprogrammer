@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm amirhossein aminnegareshi.<br>I'm front-end developer and I'm wordpress developer<br>I was working on behinesazan-sarzamin-hooshmand.
+Hi there 👋<br>I'm amirhossein aminnegareshi.<br>I'm front-end developer and I was wordpress developer<br>I was working on behinesazan-sarzamin-hooshmand.
 
 
 ## 🌐 Socials:
